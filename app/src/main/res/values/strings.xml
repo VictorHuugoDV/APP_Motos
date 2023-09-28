@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Motos</string>
+    <string name="nome_moto1">CG 160</string>
+    <string name="nome_moto2">Biz 125</string>
+    <string name="nome_moto3">NXR 160 Bros</string>
+    <string name="nome_moto4">Pop 110i</string>
+    <string name="nome_moto5">CB 250 Twister</string>
+    <string name="nome_moto6">Fazer 250</string>
+    <string name="nome_moto7">MT-03</string>
+    <string name="nome_moto8">Lander 250</string>
+    <string name="nome_moto9">R15</string>
+    <string name="nome_moto10">ADV</string>
+    <string name="nome_mot11">Cb 600</string>
+    <string name="nome_mot12">XRE 300</string>
+    <string name="marca_honda">Marca da moto:Honda</string>
+    <string name="marca_yamaha">A marca da moto:Yamaha</string>
+    <string name="valor_1">.Valor da moto: R$16.760</string>
+    <string name="valor_2">.Valor da moto: R$14.320</string>
+    <string name="valor_3">.Valor da moto: R$18.686</string>
+    <string name="valor_4">.Valor da moto: R$9.010</string>
+    <string name="valor_5">.Valor da moto: R$19.990</string>
+    <string name="valor_6">.Valor da moto: R$21.690</string>
+    <string name="valor_7">.Valor da moto: R$30.890</string>
+    <string name="valor_8">.Valor da moto: R$24.390,00</string>
+    <string name="valor_9">.Valor da moto: R$18.990</string>
+    <string name="valor_10">.Valor da moto: R$23.060</string>
+    <string name="valor_11">.Valor da moto: R$35.000</string>
+    <string name="valor_12">.Valor da moto: R$25.000</string>
+    <string name="pesquisa">.Ano da pesquisa: 2023</string>
+    <string name="combustivel">.Combustível: Gasolina e/ou Etanol</string>
+    <string name="partida">.Sistema de Partida: Elétrico</string>
+</resources>
